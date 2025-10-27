@@ -3,7 +3,7 @@ Jestem Agata i jestem studentką 3. roku kierunku **Analiza Danych**.
 ---
 
 ## 📫 Kontakt
-- LinkedIn: [www.linkedin.com/in/agata-trykowska-543557335]
+- LinkedIn: [https://www.linkedin.com/in/trykowskaagata/]
 - E-mail: [trykowskaagata@gmail.com]  
 ---
 
