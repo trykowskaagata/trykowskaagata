@@ -63,9 +63,3 @@ Celem analizy było zbadanie zależności poziomu glukozy od wybranych cech fizy
 - walidację modelu z podziałem danych na zbiór uczący i testowy.
 Projekt zrealizowany w R z wykorzystaniem narzędzi do modelowania statystycznego, wizualizacji i oceny jakości modeli
 ---
-
-## 🌟 Poza danymi  
-- 🏞️ Wędrówki górskie — od dziecka chodzę po Tatrach, które sa dla mnie miejscem resetu i spokoju.  
-- 🎵 Muzyka — nie tylko słucham, ale próbuję analizować: co mnie inspiruje, jakie są trendy w mojej bibliotece, kiedy zmieniam gusta.  
----
-
