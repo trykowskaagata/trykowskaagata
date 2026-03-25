@@ -33,7 +33,9 @@ Jestem Agata i jestem studentką 3. roku kierunku **Analiza Danych**.
 Dashboard wyświetla topowe utwiry, gatunki oraz dynamiczną ikonę aktualnie najczęściej słuchanego artysty.
 Przw
 ### 1.⚡ Real-time Spotify Data Pipeline & Dashboard
-Projekt, w którym odeszłam od statycznych plików na rzecz w pełni zautomatyzowanego obiegu danych (ETL). Zbudowałam system, który samodzielnie gromadzi historię mojego słuchania w relacyjnej bazie danych.
+Projekt automatyzujący proces gromadzenia i analizy osobistych danych muzycznych, budujący niezależne od Spotify archiwum historyczne.
+- **Automatyczny Pipeline ETL**: Zaprojektowanie systemu w Node.js/Python, który co 5 minut pobiera dane z API Spotify, eliminując konieczność ręcznego eksportu plików i zapewniając ciągłość danych.
+- **Architektura Bazy Danych**: Implementacja relacyjnej bazy PostgreSQL z wykorzystaniem typu JSONB. System wykonuje automatyczną deduplikację rekordów na podstawie znacznika czasu played_at.
 
 ### 2. 🎧 **Spotify Data Analysis**
 Projekt wykonany z ciekawości — chciałam sprawdzić, jak moje własne dane różnią się od corocznego podsumowania Spotify Wrapped oraz rozszerzyć tę analizę.
